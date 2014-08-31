@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# Written by: Jumshaid Hussain
 # Date: August 24, 2014
 #
 #
